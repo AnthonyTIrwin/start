@@ -1,0 +1,26 @@
+.firstClass {
+color: rgb(15, 73, 128);
+    background-color: paleturquoise;
+    
+}
+html {
+color: red;
+    background-color: plum;
+}
+
+body {
+
+    background-color:pink;
+}
+
+.secondClass {
+
+    background-color: lawngreen;
+    padding: 20px;
+
+}
+
+.thirdClass {
+background-color: lightskyblue;
+padding: 100px;
+}
